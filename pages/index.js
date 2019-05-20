@@ -2,6 +2,6 @@ import '../styles/styles.scss'
 
 export default () => (
   <div className='app'>
-    Hello world!
+    Hello world! - John Serrano
   </div>
 );
