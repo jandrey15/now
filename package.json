@@ -7,7 +7,9 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": "https://github.com/jandrey15/netlify",
   "author": "John Serrano",
@@ -18,7 +20,14 @@
     "react-dom": "^16.8.5"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
     "@zeit/next-sass": "^1.0.1",
+    "babel-jest": "^24.8.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.13.1",
+    "jest": "^24.8.0",
     "node-sass": "^4.11.0"
   }
 }
