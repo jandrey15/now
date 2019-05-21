@@ -1,7 +1,8 @@
+import React from 'react'
 import '../styles/styles.scss'
 
-export default () => (
+export default (props) => (
   <div className='app'>
-    Hello world! - John Serrano
+    <h3>Hello world! - {props.name || 'John Andrey'}</h3>
   </div>
 );
