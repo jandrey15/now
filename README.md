@@ -1,5 +1,7 @@
 # Now for GitHub and Next.js
 
+[![Build Status](https://travis-ci.com/jandrey15/now.svg?branch=master)](https://travis-ci.com/jandrey15/now) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jandrey15/now.svg) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/jandrey15/now.svg) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/jandrey15/now/react.svg) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/jandrey15/now/next.svg) ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/jandrey15/now/dev/@babel/preset-react.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jandreyserrano/deploy_to_digitalocean/blob/master/LICENSE)
+
 ## ¿How does it work?
 
 Require Node.js 8.x
