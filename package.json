@@ -1,7 +1,7 @@
 {
-  "name": "netlify",
+  "name": "example-now",
   "version": "1.0.0",
-  "description": "Example with netlify and next.js",
+  "description": "Example with now and next.js",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -11,7 +11,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "repository": "https://github.com/jandrey15/netlify",
+  "repository": "https://github.com/jandrey15/now",
   "author": "John Serrano",
   "license": "MIT",
   "dependencies": {
