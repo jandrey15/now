@@ -15,7 +15,7 @@
   "author": "John Serrano",
   "license": "MIT",
   "dependencies": {
-    "next": "^8.0.3",
+    "next": "^9.3.2",
     "react": "^16.8.5",
     "react-dom": "^16.8.5"
   },
